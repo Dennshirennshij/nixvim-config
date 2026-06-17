@@ -2,6 +2,8 @@
   <img src="/images/logo.png" width="200" />
 </p>
 
+<h1>Deprecated. Not in use anymore. Switched to lazyvim.</h1>
+
 <h1 align="center">NixVim Configuration</h1>
 Because who doesn't like a declarative configuration of Neovim?
 
